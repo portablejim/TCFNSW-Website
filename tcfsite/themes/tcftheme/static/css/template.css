@@ -179,6 +179,10 @@ body
     list-style: none;
     margin: 0;
     padding: 0;
+}
+
+.sectionItems .articleList
+{
     display: grid;
 	grid-template-columns: repeat(3, 1fr);
 	grid-auto-rows: 1fr;
@@ -191,6 +195,11 @@ body
     height: 100%;
     position: relative;
     padding-bottom: 25px;
+}
+
+.frontpageArticles .articleList > li
+{
+    margin-bottom: 16px;
 }
 
 .article .readmore

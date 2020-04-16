@@ -18,14 +18,37 @@
             <li>
                 <div class="article">
                 <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
-                {{ if isset .Params "publisheddate" }}
-                <span class="date">{{ dateFormat "January 2006" .Params.publisheddate }}</span>
+                {{ if isset .Params "publishdate" }}
+                <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
                 {{ end }}
                 <p>{{ .Description }}</p>
                 <p class="readmore"><a href="{{ .RelPermalink}}">Read</a></p>
                 </div>
+            </li>
             {{ end }}
         </ul>
     </div>
   {{ end }}
+  {{ if eq (len .Sections) 0 }}
+    <h1>{{ .Title }}</h1>
+  <div class="articleItems">
+        <ul class="articleList">
+            {{ range .Pages }}
+                {{ if eq .Kind "page" }}
+                <li>
+                    <div class="article">
+                    <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
+                    {{ .Kind }}
+                    {{ if isset .Params "publishdate" }}
+                    <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                    {{ end }}
+                    <p>{{ .Description }}</p>
+                    <p class="readmore"><a href="{{ .RelPermalink}}">Read</a></p>
+                    </div>
+                </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+  </div>
+{{ end }}
 {{ end }}
