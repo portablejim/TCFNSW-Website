@@ -1,0 +1,41 @@
+{{ define "pageClass" }}homepage{{ end }}
+{{ define "main" }}
+
+<div class="twoColumn">
+<div class="mainNews">
+{{ $news := .Site.GetPage "page" "pageFragments/news" }}
+{{ $news.Content }}
+</div>
+
+<div class="mainDiscussion">
+{{ $latestDiscussion := .Site.GetPage "page" "pageFragments/latestdiscussion" }}
+{{ $latestDiscussion.Content }}
+</div>
+</div>
+
+<div style="padding: 10px 0;">
+<div style="background-color: #0e194c;">Color 1</div>
+<div style="background-color: #6699ff;">Color 2</div>
+<div style="background-color: #d8dbe2;">Color 3</div>
+<div style="background-color: #a9bcd0;">Color 4</div>
+<div style="background-color: #58a4b0;">Color 5</div>
+<div style="background-color: #343a40;">Color 6</div>
+</div>
+<div style="padding: 10px 0;">
+<div style="background-color: #0e194c;">Color 1</div>
+<div style="background-color: #6699ff;">Color 2</div>
+<div style="background-color: #4b5358;">Color 3</div>
+<div style="background-color: #727072;">Color 4</div>
+<div style="background-color: #af929d;">Color 5</div>
+<div style="background-color: #343a40;">Color 6</div>
+</div>
+<div style="padding: 10px 0;">
+<div style="background-color: #0e194c;">Color 1</div>
+<div style="background-color: #6699ff;">Color 2</div>
+<div style="background-color: #e8e9f3;">Color 3</div>
+<div style="background-color: #cecece;">Color 4</div>
+<div style="background-color: #a6a6a8;">Color 5</div>
+<div style="background-color: #343a40;">Color 6</div>
+</div>
+
+{{ end }}

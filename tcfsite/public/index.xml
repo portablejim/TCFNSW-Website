@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TCFNSW</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on TCFNSW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>About</description>
+    </item>
+    
+    <item>
+      <title>Latest Discussion</title>
+      <link>http://localhost:1313/pagefragments/latestdiscussion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pagefragments/latestdiscussion/</guid>
+      <description>Latest Discussion Student AffairsAricle by John Gore applying American research to the Australian context on &#34;Student Affairs&#34; (April 2020)
+ Turning the tables on rote learning John Gore discusses rote learning (April 2020)
+Discussion: More than shared ignorance. An article by John Gore on using Discussion in the classroom (Feb 2020)
+A different kind of teacher Harley Mills helpfully summarises what was looked at during the recent (Oct 2020) Curriculum Review  John Gore gives his first impressions of the draft NSW Curriculum review interim report.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/pagefragments/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pagefragments/news/</guid>
+      <description>News Dates for your Diary Pending Government regulations AGM: Saturday 20th June 2020 at 1.30pm. Venue to be arranged.
+Getaway: Stanwell Tops. Thursday 16th July - Saturday 18th July 2020
+ Dr William E. C. Andersen Some excerpts from speakers at the Thanksgiving service on 21st September 2019
+--  Prayer Points Robyn Thomas has kindly agreed to formulate prayer points for each edition of TCF News. Thank you Robyn for your contribution to this task.</description>
+    </item>
+    
+  </channel>
+</rss>

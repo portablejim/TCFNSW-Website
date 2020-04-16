@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ .Content }}
+<div class="sectionToc">
+    <ul>
+        {{ range .Sections}}
+        <li><a href="#{{ anchorize .Title}}">{{ .Title }}</a> {{ .Params.toc_suffix }}</li>
+        {{ end }}
+    </ul>
+</div>
+
+    {{ range .Sections}}
+    <div class="sectionItems">
+        <a name="{{ anchorize .Title }}"></a>
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Params.description }}</p>
+        <ul class="articleList">
+            {{ range .Pages }}
+            <li>
+                <div class="article">
+                <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
+                {{ if isset .Params "publisheddate" }}
+                <span class="date">{{ dateFormat "January 2006" .Params.publisheddate }}</span>
+                {{ end }}
+                <p>{{ .Description }}</p>
+                <p class="readmore"><a href="{{ .RelPermalink}}">Read</a></p>
+                </div>
+            {{ end }}
+        </ul>
+    </div>
+  {{ end }}
+{{ end }}

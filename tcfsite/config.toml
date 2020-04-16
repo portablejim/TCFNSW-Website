@@ -1,0 +1,25 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "TCFNSW"
+theme = "tcftheme"
+#theme = "hugo-business-frontpage-theme"
+sectionPagesMenu = "main"
+copyright = "Copyright 2019 TCFNSW"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+  [[menu.main]]
+    identifier = "articles"
+    name = "Articles"
+    url = "/articles/"
+    weight = 30
+

@@ -1,0 +1,24 @@
+<div class="navbarOuter">
+    <div class="navbar">
+        <div class="branding">
+            <img style="height: 55px;" src="/siteImages/tcflogo.png" />
+            <div class="sitename">
+                <h1>TCFNSW</h1>
+                <span>Teachers' Christian Fellowship of NSW</span>
+            </div>
+        </div>
+        <div class="navMenu">
+            <ul>
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <li class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}">
+                    <a href="{{ .URL }}">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</div>
