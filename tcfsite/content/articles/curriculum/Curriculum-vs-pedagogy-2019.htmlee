@@ -30,7 +30,7 @@ description: "Article on curriculum versus pedagogy"
       <picture>
 <source srcset="../images/Classroom-change.jpg" media="(min-width: 500px)">
           <source srcset="../images/Classroom-change-V.jpg" media="(max-width:500px)">
-<img src="../images/Classroom-change-V.jpg" alt="2 different types of classrooms" style="width: 90%; max-width: 910px;">
+<img src="/images/Classroom-change-V.jpg" alt="2 different types of classrooms" style="width: 90%; max-width: 910px;">
 </picture>
       <p>To focus on the issues, a comment on two extremes is helpful.</p>
       <h4>The Blue Book</h4>
