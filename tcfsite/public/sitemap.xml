@@ -3,6 +3,201 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/articles/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/turning_the_tables/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/general/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/general/student-affairs/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/discussion_more_than_shared_ignorance/</loc>
+    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/general/jesus-the-teacher/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/curriculum/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/curriculum/2019curriculum-review-interim-report/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/review_teaching_integrity/</loc>
+    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/teaching-integrity/</loc>
+    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/them/</loc>
+    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/working_with_refugee_students/</loc>
+    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/general/where_two_or_three_are_gathered/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/curriculum/curriculum-vs-pedagogy-2019/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/general/public-schools-fight/</loc>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/behvaiour-management-srategies/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/religious-education/religion-in-schools/</loc>
+    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/religious-education/</loc>
+    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/not-in-my-school/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/learning-innovations-hybrid-model/</loc>
+    <lastmod>2017-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/homework/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/oral_and-written-language-support/</loc>
+    <lastmod>2016-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/10-ot-strategies/</loc>
+    <lastmod>2016-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/teaching-well-book/</loc>
+    <lastmod>2014-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/adhd/</loc>
+    <lastmod>2013-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/adolescents-different/</loc>
+    <lastmod>2013-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/disabled/</loc>
+    <lastmod>2012-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/gore/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/mental_behavioural_health/</loc>
+    <lastmod>2007-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/teaching_about_christmas2/</loc>
+    <lastmod>2007-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/teaching_about_christmas1/</loc>
+    <lastmod>2006-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/bruveris/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/learning/laws/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/contemporary/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/creationalism/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/teaching/expectations/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/pagefragments/</loc>
   </url>
   
@@ -11,7 +206,31 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/articles/assessment/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/discipline/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/distorted-incomplete/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/gender-and-schools/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/general/israel_folau_implications_2019/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/privelege/</loc>
   </url>
   
   <url>
@@ -23,11 +242,55 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/articles/whole_school/radicalisation-of-youth/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/religious_schools_and_lgbt/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/articles/whole_school/spence/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/lgbt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/citizens-bite-back/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/citizens-bite-back2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/vote/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/why_values/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/working-with-lgbt-students/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/working_with_refugee_students/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/whole_school/school-based-welfare-plan/</loc>
   </url>
   
 </urlset>

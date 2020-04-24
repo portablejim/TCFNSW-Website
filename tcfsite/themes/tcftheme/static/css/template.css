@@ -238,4 +238,8 @@ body
 {
     width: 1000px;
     margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-between;
 }
