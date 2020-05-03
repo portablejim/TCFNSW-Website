@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Religious Education on TCFNSW</title>
+    <link>http://localhost:1313/articles/religious-education/</link>
+    <description>Recent content in Religious Education on TCFNSW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2019 TCFNSW</copyright>
+    <lastBuildDate>Sun, 22 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/articles/religious-education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Religion in NSW public schools - A future less certain?</title>
+      <link>http://localhost:1313/articles/religious-education/religion-in-schools/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/religious-education/religion-in-schools/</guid>
+      <description>Disclaimer: This article is the opinion of the author and does not necessarily reflect that of all Teachers&#39; Christian Fellowship members.
+Religion in NSW public schools - A future less certain? In recent years, the issue of religion in public schools has featured regularly in the news. However, there is not widespread community understanding of the background, issues and future prospects for religion in schools. This article tries to address these matters in relation to NSW.</description>
+    </item>
+    
+  </channel>
+</rss>

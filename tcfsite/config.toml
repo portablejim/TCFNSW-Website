@@ -12,14 +12,3 @@ copyright = "Copyright 2019 TCFNSW"
     name = "Home"
     url = "/"
     weight = 10
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 20
-  [[menu.main]]
-    identifier = "articles"
-    name = "Articles"
-    url = "/articles/"
-    weight = 30
-

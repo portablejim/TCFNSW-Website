@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on TCFNSW</title>
+    <link>http://localhost:1313/articles/general/</link>
+    <description>Recent content in General on TCFNSW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2019 TCFNSW</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/articles/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Student Affairs</title>
+      <link>http://localhost:1313/articles/general/student-affairs/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/general/student-affairs/</guid>
+      <description>Aricle by John Gore applying American research to the Australian context on &amp;ldquo;Student Affairs&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>A different sort of teacher</title>
+      <link>http://localhost:1313/articles/general/jesus-the-teacher/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/general/jesus-the-teacher/</guid>
+      <description>Harvey Mills reports on the 2019 TCF October Getaway.</description>
+    </item>
+    
+    <item>
+      <title>Where two or three are gathered</title>
+      <link>http://localhost:1313/articles/general/where_two_or_three_are_gathered/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/general/where_two_or_three_are_gathered/</guid>
+      <description>Short article by Peter Kidd on praying with other Christian staff at your school. Have you met with other Christian teachers to pray? How has it helped? Join the discussion on &lt;a href=&#34;https://www.facebook.com/groups/126165657429402/&#34;&gt;Facebook&lt;/a&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Public Schools fight back?</title>
+      <link>http://localhost:1313/articles/general/public-schools-fight/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/general/public-schools-fight/</guid>
+      <description>Disclaimer: This article is the opinion of the author and does not necessarily reflect that of all Teachers&#39; Christian Fellowship members.
+Public Schools fight back? In recent weeks (July 2018), there has been considerable ideological debate about whether public schools should continue to support selective schools. This is partly a debate about whether public schools should be local and comprehensive or cater for specialist needs including intellectual superiority. In an education textbook, the debate would be along traditional lines, but today’s arguments have a social context, with historical and political heritages, that are affected by the current makeup of the Australian population, social expectations about schools and, of course, funding.</description>
+    </item>
+    
+    <item>
+      <title>Israel Folau and religious freedom</title>
+      <link>http://localhost:1313/articles/general/israel_folau_implications_2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/general/israel_folau_implications_2019/</guid>
+      <description>Disclaimer: This article is the opinion of the author and does not necessarily reflect that of all Teachers&amp;rsquo; Christian Fellowship members.
+Israel Folau and religious freedom: Implications for Christian education In recent months, Israel Folau has been blamed for most of the world’s problems – the demise of the Waratahs, the undermining of the Wallabies, the destruction of the Australian Rugby Union, the suicide of young gays, the disillusionment of young Australians and the promotion of a Christian sect outside of mainstream Christianity.</description>
+    </item>
+    
+  </channel>
+</rss>

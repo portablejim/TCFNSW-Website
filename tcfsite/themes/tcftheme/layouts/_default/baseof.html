@@ -5,9 +5,9 @@
         {{- partial "header.html" . -}}
         {{- block "breadcrumbs" . }}{{- end }}
         <div class="contentOuter">
-        <div id="content">
+        <main id="content">
         {{- block "main" . }}{{- end }}
-        </div>
+        </main>
         </div>
         {{- partial "footer.html" . -}}
     </body>

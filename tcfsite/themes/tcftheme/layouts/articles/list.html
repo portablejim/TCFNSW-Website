@@ -10,7 +10,7 @@
 
     {{ range .Sections}}
     <div class="sectionItems">
-        <a name="{{ anchorize .Title }}"></a>
+        <a name="{{ anchorize .Title }}" aria-hidden="true"></a>
         <h2>{{ .Title }}</h2>
         <p>{{ .Params.description }}</p>
         <ul class="articleList">

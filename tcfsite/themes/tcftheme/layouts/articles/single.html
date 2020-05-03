@@ -4,7 +4,7 @@
         {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
         {{ $.Scratch.Set "path" .Site.BaseURL }}
         {{ $.Scratch.Add "currentURL" .Permalink }}
-        {{ $pageNotFound := (eq (replace $.Site.BaseURL .Site.BaseURL "404.html") .Dir) }}
+        {{ $pageNotFound := (eq (replace $.Site.BaseURL .Site.BaseURL "404.html") .File.Dir) }}
         <ul class="breadcrumbsList">
             <li><a href="{{ .Site.BaseURL }}">Home</a>{{ if not (eq .File.Dir "/")  }} <span class="arrow">/</span>{{ end }}</li>
             {{ range $index, $element := split $url "/" }}
@@ -26,7 +26,7 @@
 </div>
 {{ end }}
 {{ define "main" }}
-<a name="top" />
+<a name="top" aria-hidden="true"></a>
 <div class="title">
     <h1>{{ .Title }}</h1>
 </div>

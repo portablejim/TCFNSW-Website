@@ -1,6 +1,9 @@
 ---
 title: "Articles"
-menu: "Articles"
+menu:
+  main:
+    name: "articles"
+    weight: 30
 ---
 # Articles
 
