@@ -210,6 +210,10 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/articles/curriculum/mcgaw/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
   
@@ -226,6 +230,14 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/articles/international/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/curriculum/place-of-service-learning/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/articles/general/israel_folau_implications_2019/</loc>
   </url>
   
@@ -234,7 +246,15 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/articles/curriculum/history-devil/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/pagefragments/latestdiscussion/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/membership/</loc>
   </url>
   
   <url>
@@ -246,7 +266,15 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/articles/curriculum/history-recommendations/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/articles/whole_school/religious_schools_and_lgbt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/curriculum/submission-curriculum-review/</loc>
   </url>
   
   <url>
@@ -259,6 +287,14 @@
   
   <url>
     <loc>http://localhost:1313/articles/whole_school/lgbt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/curriculum/response2devil-not-detail/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/curriculum/histdebat/</loc>
   </url>
   
   <url>
