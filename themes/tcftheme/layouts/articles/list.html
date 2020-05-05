@@ -2,13 +2,13 @@
 {{ .Content }}
 <div class="sectionToc">
     <ul>
-        {{ range .Sections}}
+        {{ range .Sections.ByTitle }}
         <li><a href="#{{ anchorize .Title}}">{{ .Title }}</a> {{ .Params.toc_suffix }}</li>
         {{ end }}
     </ul>
 </div>
 
-    {{ range .Sections}}
+    {{ range .Sections.ByTitle }}
     <div class="sectionItems">
         <a name="{{ anchorize .Title }}" aria-hidden="true"></a>
         <h2>{{ .Title }}</h2>
