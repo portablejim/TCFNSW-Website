@@ -17,12 +17,21 @@
             {{ range .Pages }}
             <li>
                 <div class="article">
-                <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
-                {{ if isset .Params "publishdate" }}
-                <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                {{ if ( and (isset .Params "pdfonly") .Params.pdfonly ) }}
+                    <h4><a href="{{ .Params.pdfLink }}" target="_blank">{{ .Title }}</a></h4>
+                    {{ if isset .Params "publishdate" }}
+                    <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                    {{ end }}
+                    <p>{{ .Params.summary }}</p>
+                    <p class="readmore"><a href="{{ .Params.pdfLink }}">Read</a></p>
+                {{ else }}
+                    <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
+                    {{ if isset .Params "publishdate" }}
+                    <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                    {{ end }}
+                    <p>{{ .Params.summary }}</p>
+                    <p class="readmore"><a href="{{ .RelPermalink}}" target="_blank">Read</a></p>
                 {{ end }}
-                <p>{{ .Description }}</p>
-                <p class="readmore"><a href="{{ .RelPermalink}}">Read</a></p>
                 </div>
             </li>
             {{ end }}
