@@ -29,7 +29,7 @@
                     {{ if isset .Params "publishdate" }}
                     <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
                     {{ end }}
-                    <p>{{ .Params.summary }}</p>
+                    <p>{{ .Params.summary | markdownify }}</p>
                     <p class="readmore"><a href="{{ .RelPermalink}}" target="_blank">Read</a></p>
                 {{ end }}
                 </div>
