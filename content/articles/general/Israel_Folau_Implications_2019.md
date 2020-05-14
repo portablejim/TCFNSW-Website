@@ -1,6 +1,7 @@
 ---
 title: "Israel Folau and religious freedom"
 publishdate: "2019-08-04"
+pdflink: "/pdfarticles/TCFNews-Aug-19.pdf"
 description: "Israel Folau and religious freedom: Implications for Christian education"
 summary: ""
 ---

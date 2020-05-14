@@ -1,7 +1,8 @@
 ---
 title: "Student Affairs"
 description: "Article looking at research done on student affairs from an Australian perspective"
-summary: "Aricle by John Gore applying American research to the Australian context on \"Student Affairs\""
+pdflink: "/pdfarticles/TCF-News-Feb-2020.pdf"
+summary: "Aritcle by John Gore applying American research to the Australian context on \"Student Affairs\""
 publishdate: "2020-04-01"
 ---
 

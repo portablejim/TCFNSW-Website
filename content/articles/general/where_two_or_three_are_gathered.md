@@ -1,6 +1,7 @@
 ---
 title: "Where two or three are gathered"
 publishdate: "2019-08-05"
+pdflink: "/pdfarticles/TCFNews-Aug-19.pdf"
 description: "Where two or three are gathered"
 summary: "Short article by Peter Kidd on praying with other Christian staff at your school. Have you met with other Christian teachers to pray? How has it helped? Join the discussion on [Facebook](https://www.facebook.com/groups/126165657429402/)."
 ---
