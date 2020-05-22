@@ -201,7 +201,6 @@ body
 {
     max-width: 1000px;
     margin: auto;
-    overflow: auto;
 }
 
 
@@ -270,11 +269,6 @@ body
 .breadcrumbsList li a
 {
     color: white;
-}
-
-.breadcrumbsList li a
-{
-
 }
 
 .breadcrumbsList li .arrow
@@ -353,13 +347,16 @@ body
 .sectionItems
 {
     padding-bottom: 16px;
+    position: relative;
 }
 
 .sectionItems h2
 {
-    overflow: auto;
     background-color: #6699ff;
     padding: 8px;
+    position: sticky;
+    top: 0;
+    z-index: 2;
 }
 
 .pdfLink
