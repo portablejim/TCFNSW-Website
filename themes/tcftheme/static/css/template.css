@@ -337,6 +337,7 @@ body
     left: 0;
     text-align: center;
     border-top: 1px solid rgb(216, 219, 226);
+    background-color: rgba(0, 0, 0, 0.05);
     overflow: auto;
     margin: 0;
 }
@@ -352,6 +353,13 @@ body
 .sectionItems
 {
     padding-bottom: 16px;
+}
+
+.sectionItems h2
+{
+    overflow: auto;
+    background-color: #6699ff;
+    padding: 8px;
 }
 
 .pdfLink
