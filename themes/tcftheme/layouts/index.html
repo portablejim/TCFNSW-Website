@@ -1,6 +1,11 @@
 {{ define "pageClass" }}homepage{{ end }}
 {{ define "main" }}
 
+<div class="hero">
+{{ $hero := .Site.GetPage "page" "pageFragments/homepagehero" }}
+{{ $hero.Content }}
+</div>
+
 <div class="twoColumn">
 <div class="mainNews">
 {{ $news := .Site.GetPage "page" "pageFragments/news" }}

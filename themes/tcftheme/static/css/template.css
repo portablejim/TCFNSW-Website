@@ -405,3 +405,51 @@ body
     padding: 4px 0;
     margin: 2px 0;
 }
+
+.hero
+{
+    position: relative;
+    margin-top: 8px;
+    padding: 0;
+}
+
+.hero .textshade
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    margin-bottom: 2px;
+}
+
+.heroimage
+{
+    display: block;
+    width: 100%;
+    margin: 0;
+}
+
+.herotext
+{
+    z-index: 4;
+
+    color: white;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0;
+    padding: 0 8px;
+
+    width: 100%;
+
+    position: absolute;
+}
+
+@media screen and (min-width: 740px)
+{
+    .herotext
+    {
+        font-size: 3em;
+    }
+}
