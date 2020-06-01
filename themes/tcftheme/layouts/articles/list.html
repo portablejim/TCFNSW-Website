@@ -15,25 +15,33 @@
         <p>{{ .Params.description }}</p>
         <ul class="articleList">
             {{ range .Pages }}
-            <li>
-                <div class="article">
-                {{ if ( and (isset .Params "pdfonly") .Params.pdfonly ) }}
-                    <h4><a href="{{ .Params.pdfLink }}" target="_blank">{{ .Title }}</a></h4>
-                    {{ if isset .Params "publishdate" }}
-                    <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
-                    {{ end }}
-                    <p>{{ .Params.summary }}</p>
-                    <p class="readmore"><a href="{{ .Params.pdfLink }}">Read</a></p>
+                {{ if ( and (isset .Params "imageonly") .Params.imageonly ) }}
+                <li aria-hidden="true">
+                    <div class="article">
+                        <div class="imageArticleInner" style="background-image: url({{.Params.imageurl}});"></div>
+                    </div>
+                </li>
                 {{ else }}
-                    <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
-                    {{ if isset .Params "publishdate" }}
-                    <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                <li>
+                    <div class="article">
+                    {{ if ( and (isset .Params "pdfonly") .Params.pdfonly ) }}
+                        <h4><a href="{{ .Params.pdfLink }}" target="_blank">{{ .Title }}</a></h4>
+                        {{ if isset .Params "publishdate" }}
+                        <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                        {{ end }}
+                        <p>{{ .Params.summary }}</p>
+                        <p class="readmore"><a href="{{ .Params.pdfLink }}">Read</a></p>
+                    {{ else }}
+                        <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
+                        {{ if isset .Params "publishdate" }}
+                        <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                        {{ end }}
+                        <p>{{ .Params.summary | markdownify }}</p>
+                        <p class="readmore"><a href="{{ .RelPermalink}}" target="_blank">Read</a></p>
                     {{ end }}
-                    <p>{{ .Params.summary | markdownify }}</p>
-                    <p class="readmore"><a href="{{ .RelPermalink}}" target="_blank">Read</a></p>
+                    </div>
+                </li>
                 {{ end }}
-                </div>
-            </li>
             {{ end }}
         </ul>
     </div>
