@@ -294,7 +294,8 @@ body
     padding: 0;
 }
 
-.sectionItems .articleList
+.sectionItems .articleList,
+.articleItems .articleList
 {
     display: grid;
 	grid-template-columns: repeat(1, 1fr);
@@ -305,7 +306,8 @@ body
 
 @media screen and (min-width: 740px)
 {
-    .sectionItems .articleList
+    .sectionItems .articleList,
+    .articleItems .articleList
     {
         grid-template-columns: repeat(3, 1fr);
     }

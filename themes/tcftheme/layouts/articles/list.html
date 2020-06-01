@@ -52,17 +52,25 @@
         <ul class="articleList">
             {{ range .Pages }}
                 {{ if eq .Kind "page" }}
-                <li>
-                    <div class="article">
-                    <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
-                    {{ .Kind }}
-                    {{ if isset .Params "publishdate" }}
-                    <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                    {{ if ( and (isset .Params "imageonly") .Params.imageonly ) }}
+                    <li aria-hidden="true">
+                        <div class="article">
+                            <div class="imageArticleInner" style="background-image: url({{.Params.imageurl}});"></div>
+                        </div>
+                    </li>
+                    {{ else }}
+                    <li>
+                        <div class="article">
+                        <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
+                        {{ .Kind }}
+                        {{ if isset .Params "publishdate" }}
+                        <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                        {{ end }}
+                        <p>{{ .Description }}</p>
+                        <p class="readmore"><a href="{{ .RelPermalink}}">Read</a></p>
+                        </div>
+                    </li>
                     {{ end }}
-                    <p>{{ .Description }}</p>
-                    <p class="readmore"><a href="{{ .RelPermalink}}">Read</a></p>
-                    </div>
-                </li>
                 {{ end }}
             {{ end }}
         </ul>
