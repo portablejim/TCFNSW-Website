@@ -7,11 +7,11 @@ summary: "John Gore discusses the advantages and disadvantates of education duri
 ---
 
 Usually, the term “learning gap” refers to the difference between what students have learnt and what they should have learnt. However, Stay at home for school students and their parents has raised the issue of whether students experiencing a gap in school attendance are disadvantaged. Like most important issues, the answer is complex, not simple, and varies for every student. As Christian teachers, we want the best for each of our students, so this matter is of interest and how we react is crucial to our witness about God’s love in a changing world.  
-####The default position
+#### The default position
 On the surface, it is easy to argue that students will be disadvantaged by not having face to face lessons in a classroom environment, otherwise why would we build classrooms, employ teachers and allocate resources to schools. And this view is supported by the growing community realisation that online learning is not a universal solution. Besides, there are other social benefits from learning with others in a school environment.
-####The gap
+#### The gap
 Realising that, during the coronavirus epidemic, students will not be at school, education authorities rushed to develop and to use existing online learning activities and to use internet communication via Zoom and other apps to communicate directly with students. While this engagement kept teachers fully occupied, some parents struggled to supervise and assist with home lessons. These initiatives aimed to avoid the expected gap in learning from students not completing their school year/grade curriculum requirements in a range of subjects for their age cohort.
-####Research findings
+#### Research findings
 But how real is the gap and is there any research evidence? Perhaps the closest research is from the United States where students can have a break of up to 10 weeks for summer. In a study *Summer learning loss: What is it, and what can we do about it? *Quinn and Polikoff (2017) review the literature and concluded that: *(1) on average, students’ achievement scores declined over summer vacation by one month’s worth of school-year learning, (2) declines were sharper for math than for reading, and (3) the extent of loss was larger at higher grade levels.*
 
 One study *using data from over half a million students in grades 2-9 from a southern state (from 2008-2012) found that students, on average, lost between 25 – 30 percent of their school-year learning over the summer. However, an analysis of the nationally-representative Early Childhood Longitudinal Study, Kindergarten Class of 2010 – 11 (ECLS-K:2011) found little evidence of overall loss over the summers after grades K and 1.*
@@ -24,7 +24,7 @@ In home schooling the lack of social contact with others can be compensated for 
 
 Unlike the USA vacation, the coronavirus gap has not entirely been a holiday as studentshave been expected to complete online work and to communicate regularly with their teachers.  If from the research the average loss is one month’s learning for 10 weeks of vacation, then it should be something less than this during the at home period for the coronavirus. But the loss and gains will not be even across all students. 
 
-####The gap varies with every student
+#### The gap varies with every student
 Some of the issues that affect the success of closing the gap between learning at school and learning at home are(in no particular order of importance):
 1. One size fits all  
 The curriculum is set in age/year grades and students’ progress through these grades receiving reports on progress. Students who are unsuccessful are not encouraged to repeat for mainly social reasons and therefore moved with their cohort into the next grade. This can mean that some students are always behind, although others, with increasing maturity, catch up. Students who are having difficulty keeping up with their peers may find that they have fallen further behind from online learning unless they have been subject to close supervision from their teacher and parents at home. For some students the gap between what they know and can do and what is expected of their cohort may have widened.  
@@ -43,7 +43,7 @@ Research indicates that the biggest explanation for differences in student outco
 8. Disadvantage and learning  
 Students from disadvantaged backgrounds often lag behind other students including in online learning. Recent work by The Centre for Independent Studies and a Report by the Smith Family Australia highlight the educational disadvantagesincluding the lack of equipment/technology which means that other students are privileged by being resource rich in comparison.Despite the disadvantages, schools and teachers with students from disadvantaged backgrounds need to have high expectations of these students and provide new ways for them to access the curriculum to achieve.Often the focus in schools has been on the disadvantages and not on the learning leading to some teachers believing that students from disadvantage backgrounds cannot learn like other students. Yes, it’s a struggle, but these students are not less intelligent and need to be taught well so that they can overcome disadvantage. The online learning and classroom gap for these students cannot be overcome by ignoring this fundament issue and the better provision of technology.
 
-####Conclusion
+#### Conclusion
 Depending on the students, their teacher and the home resources, students are disadvantaged in different ways by online learning compared to face to face classroom learning. Some students who are struggling at school will continue to struggle at home, but through extra revision and consolidation may pick up on other students in their class, although not if new work and concepts are introduced. For the bright independent learning students, online learning can be easy and a bit boring, so they desire something new and challenging. Both long to meet friends and play sport and games. School is not only about academic learning.
 
 Expectations are very powerful in determining educational outcomes. If teachers expect a gap then one can develop, but if they expect high achievement then students are more likely to reach that achievement. It is particularly important that Christian teachers maintain high expectations so that students have every opportunity to know God through their studies and relationships.
