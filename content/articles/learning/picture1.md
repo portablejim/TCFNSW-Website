@@ -1,5 +1,5 @@
 ---
 imageonly: true
 publishdate: "2010-02-01"
-imageurl: "/images/interarticle/never_stop_learning.jpg"
+imageurl: "/images/interarticle/StudentLearning2.jpeg"
 ---
