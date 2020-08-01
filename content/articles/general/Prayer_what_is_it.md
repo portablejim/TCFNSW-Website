@@ -2,8 +2,8 @@
 title: "Prayer - What is it"
 publishdate: "2020-08-01"
 pdflink: "/pdfarticles/TCF-News-Aug-2020.pdf"
-description: "Harley Mills discusses Prayer and what it is"
-summary: "A summary of the teaching at the recent (2020) TCFNSW Getaway by Harley Mills,President, TCFNSW"
+description: "A summary of the teaching at the recent (2020) TCFNSW Getaway by Harley Mills,President, TCFNSW"
+summary: "Harley Mills discusses prayer"
 ---
 
 **(A summary of the teaching at the recent (2020) TCFNSW Getaway by Harley Mills,
