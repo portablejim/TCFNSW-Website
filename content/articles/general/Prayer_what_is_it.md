@@ -5,7 +5,7 @@ pdflink: "/pdfarticles/TCF-News-Aug-2020.pdf"
 description: "Harley Mills discusses Prayer and what it is"
 summary: "An article by Harley Mills on Prayer and what it is"
 ---
-#Prayer – what is it?
+
 **(A summary of the teaching at the recent TCFNSW Getaway by Harley Mills,
 President, TCFNSW)**
 
@@ -50,7 +50,8 @@ find forgiveness through the sacrificial system. (Psalm 65:1-4) And in the New T
 the repeated ceremony of the Old Testament sacrifices is replaced by the reality of the
 eternal sacrifice of the Son of God in our place. (Hebrews 9:11-14)
 
-##Why should we pray?
+## Why should we pray?
+
 We should pray because the great all-powerful God who made the world, instead of
 eliminating us as his enemies, has instead rescued us from our rebellion and adopted us as
 his children. Through Jesus actions, God has become our Father. We first repent in words,
