@@ -3,7 +3,7 @@ title: "Prayer - What is it"
 publishdate: "2020-08-01"
 pdflink: "/pdfarticles/TCF-News-Aug-2020.pdf"
 description: "Harley Mills discusses Prayer and what it is"
-summary: "An article by Harley Mills on Prayer and what it is"
+summary: "A summary of the teaching at the recent TCFNSW Getaway by Harley Mills,President, TCFNSW"
 ---
 
 **(A summary of the teaching at the recent TCFNSW Getaway by Harley Mills,
@@ -129,7 +129,7 @@ his answer but other times we may not. At these times we need to remind ourselve
 God’s goodness and love for us, after all: *He who did not spare his own Son but gave him
 up for us all, how will he not also with him graciously give us all things*. Romans 8:32
 
-##Prayer is a verbal expression of our trust in God.
+## Prayer is a verbal expression of our trust in God.
 As we ask God for things, we are giving voice to our dependence on him for everything.
 But trust in God includes trusting his words and commands and instructions for our lives. It
 means hearing God say, “Do not lie”, and believing him when he tells us that we must not
@@ -145,7 +145,7 @@ and Satan, the Father of Lies, wants us to keep believing them. He wants us to s
 and go it alone, not humbly kneel and express our dependence on God for everything.
 (James 4:4-10; 1 Peter 5:6 & 7)
 
-##How then should we pray?
+## How then should we pray?
 Prayer is verbal, made up of words spoken by us to God. Prayer is responding to God by
 presenting our requests to him. We can do this only because of what he has done for us,
 through Jesus, in initiating a relationship with us. We pray as dependent sons and
@@ -166,7 +166,7 @@ He is the Spirit of the Father and of the Son. So, when the Spirit is poured out
 us, the Father and the Son come to make their home with us. Because of the work of this
 same Spirit, we call out to God as our Father in prayer. (Romans 8:14-16)
 
-##We pray through the Son.
+## We pray through the Son.
 Christian prayer can only take place through the Lord Jesus Christ. (I Timothy 2:5 & 6)
 There are two parties. The one and only God and humanity, between which, bringing the
 two together, is Jesus. There is only one go-between, the man Christ Jesus, who is both
@@ -176,7 +176,7 @@ is that there is no other person, living or dead, that can act on our behalf as 
 between us and God, not priest, saint, Mary nor bishop. We must only pray then, through
 the Son, and only Him.
 
-##We pray to the Father.
+## We pray to the Father.
 Prayer is directed to God the Father. In the New Testament, the characteristic form of
 prayer, beginning with the Lord’s Prayer (Matt 6:9) and Jesus’ own prayers, is to pray to
 the Father. Of course, it is not wrong, to pray to the Lord Jesus Christ. In fact, there are a
@@ -187,7 +187,7 @@ Neither would it be wrong to pray to the Holy Spirit, since he is God—although
 reference in the Bible to anyone praying to the Spirit. However, the biblical pattern is to
 pray to the Father, through the Son, by the Spirit.
 
-##When should we pray?
+## When should we pray?
 Now. The best time to pray is any time and at all times. The length is irrelevant. He hears
 us and answers because of his goodness and not because he is impressed with the quality
 or length of our prayers.
@@ -196,7 +196,7 @@ We should pray constantly. We are commanded to *pray without ceasing* (1 Thessal
 5:17) and to be *constant in prayer* (Rom 12:12). What is important is that we constantly
 and continually express our trust and confidence in God by calling upon him in prayer.
 
-##What should we pray for?
+## What should we pray for?
 When teaching his disciples to pray, Jesus didn’t give instruction on posture or style, or
 exercises to get in the mood; he taught the disciples six things to pray for:
 
