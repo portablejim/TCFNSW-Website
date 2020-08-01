@@ -1,6 +1,6 @@
 ---
 title: "Prayer - What is it"
-publishdate: "2020-08-20"
+publishdate: "2020-08-01"
 pdflink: "/pdfarticles/TCF-News-Aug-2020.pdf"
 description: "Harley Mills discusses Prayer and what it is"
 summary: "An article by Harley Mills on Prayer and what it is"
