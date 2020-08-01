@@ -1,6 +1,6 @@
 ---
 title: "What do a corny Dad-joke and the British Cycling team have to do with teaching"
-publishdate: "2020-08-20"
+publishdate: "2020-08-01"
 pdflink: "/pdfarticles/TCF-News-Aug-2020.pdf"
 description: "Jenn Phillips writes about improving teaching practise"
 summary: "Jenn Phillips writes about improving teaching practise"
