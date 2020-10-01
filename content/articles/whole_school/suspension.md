@@ -5,7 +5,6 @@ pdflink: "/pdfarticles/TCFNews-Oct-2020.pdf"
 description: "John Gore discusses the issue of suspension"
 summary: " John Gore discusses the issue of suspension "
 ---
-# Suspension – A failure of discipline 
  
 ## Introduction – Two perspectives 
 When a student is suspended from school there is always a failure of discipline and not always only by the student. When a student’s actions seriously breach the school’s discipline policy redress by the school is required. However, the circumstances leading to a suspension often involve teachers who are ill equipped to handle students with behavioural disabilities. The school, its discipline code, the way sanctions are applied, authoritarian teachers and inexperienced teachers can be contributors to suspension.  
