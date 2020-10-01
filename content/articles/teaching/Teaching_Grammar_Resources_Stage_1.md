@@ -1,8 +1,0 @@
----
-title: "Teaching Grammar Stage 1"    
-publishdate: "2020-10-01T02:00:00Z"
-pdflink: "/pdfarticles/Teaching Grammar Stage 1.pdf"
-summary: " Pdf of a resource for teaching Grammar to Stage 1 "
-pdfonly: true
----
-Click on the link below to view Stage 1 teaching activities for grammar, addressing each of the teaching points in the NSW Syllabus.
