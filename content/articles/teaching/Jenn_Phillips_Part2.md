@@ -1,6 +1,6 @@
 ---
 title: "Three practical tips for teaching (Part 2)"
-publishdate: "2020-10-01"
+publishdate: "2020-09-30"
 pdflink: "/pdfarticles/TCFNews-Oct-2020.pdf"
 description: "Jenn Phillips gives some practical tips about improving teaching practise"
 summary: "Jenn Phillips writes about improving teaching practise"
