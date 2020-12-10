@@ -64,5 +64,6 @@ Hirsch E. D. (1987) *Cultural Literacy:* What every American needs to know. New 
 McGilchrist I (2009) *The master and his emissary: The divided brain and the making of the western world.* New Haven, CT, and London Yale University press.
 
 Storr, E. (2014) Selfie: *How we become so self-obsessed and what it is doing to us*. London Picador. 
-								John Gore
+
+John Gore
 
