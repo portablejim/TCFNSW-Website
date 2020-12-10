@@ -2,7 +2,7 @@
 title: " Are students being equipped for the digital age?
 "
 publishdate: "2020-12-10"
-pdflink: "/pdfarticles/TCFNews-Dec-2020.pdf"
+pdflink: "/pdfarticles/TCF-News-Dec-2020.pdf"
 description: "Review of ‘Full of character’ by Frances Ward"
 summary: " John Gore reviews and comments on a book by Frances Ward called ‘Full of character: A Christian approach to education for the digital age.’ "
 ---
