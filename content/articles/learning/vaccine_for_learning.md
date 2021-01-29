@@ -1,9 +1,10 @@
+---
 title: "One shot vaccine for learning?"
 publishdate: "2021-01-29"
 pdflink: "/pdfarticles/TCF-News-Feb-2021.pdf"
 description: "Discussion on ways to improve learning in Australian schools"
 summary: "One shot to improve students learning"
-
+---
 
 International test results and media attention continue to confirm that learning in Australian schools, at least as measured by these tests, is declining. While everyone is concerned, politicians, education academics, educational bureaucrats and even schools keep looking for the magic program that will solve the problems and return Australia to its high position internationally.
 ## The medical model
