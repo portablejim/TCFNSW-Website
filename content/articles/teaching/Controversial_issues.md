@@ -1,6 +1,7 @@
 ---
 title: "Controversial Issues"
 publishdate: "2021-01-30"
+pdflink: "/pdfarticles/TCF-News-Feb-2021.pdf"
 description: "DET Controversial Issues Policy"
 summary: "DET Controversial Issues Policy and Procedures"
 ---
