@@ -73,3 +73,5 @@ A separate area of concern is that of the commissioned evidence review of what w
 At a time when the state government is under financial pressure from the loss of income and other priorities during the covid crises, it is difficult to see how any new money can be allocated to this strategy when all existing areas and programs are under pressure to economise, meaning that any reallocation of funds is unlikely.  This means that the strategy is a nice sounding document to appease stakeholders, without the specifics of anything being done other than a change to suspension rules. It’s all a bit too political and bureaucratic to suggest any significant change.  
 John Gore 
 
+[John Gore](tcfnsw.org.au) 
+
