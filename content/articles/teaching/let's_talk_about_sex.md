@@ -5,6 +5,7 @@ pdflink: "/pdfarticles/let's_talk_about_sex.pdf"
 description: "The issues with sex education in schools"
 summary: "The issues with sex education in schools"
 ---
+
 The trouble is, apparently, we don’t. At least, that would be the opinion of commentators after the recent revelations revealed in an online petition by senior girls from private schools about sexual abuse by their male counterparts. *(SMH 20/2/21 Hundreds of students claim sexual assault.)* The extent and explicitness of their admissions have shocked the community and raised alarm bells about what schools, parents, churches and media, including the Internet, are teaching young people, especially boys, about sex and in particular, given the Brittany Higgins case, respect for women.
 
 ## Principals respond
