@@ -1,7 +1,7 @@
 ---
 title: "Let's Talk About Sex"
 publishdate: "2021-04-01"
-pdflink: "/pdfarticles/let's talk about sex.pdf"
+pdflink: "/pdfarticles/Let's talk about sex.pdf"
 description: "The issues with sex education in schools"
 summary: "The issues with sex education in schools"
 ---
