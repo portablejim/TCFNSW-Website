@@ -1,10 +1,12 @@
 ---
-title: " Who is this child?”
+title: " Who is this child?"
 publishdate: "2021-08-01"
 pdflink: "/pdfarticles/TCF-News-Aug-2021.pdf"
 description: "How do Christians view children"
 summary: " Graham McDonald looks at how children are viewed in Scripture and challenges our view of children "
 ---
+
+
 
 Throughout human history, the natural progression of life has been birth, ultimately followed by death at some point in time.  During these trying times it might be worth looking at the importance of parenting and teaching.
 	
