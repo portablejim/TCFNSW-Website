@@ -2,8 +2,8 @@
 title: " Would you like to try something different"
 publishdate: "2021-08-01"
 pdflink: "/pdfarticles/TCF-News-Aug-2021.pdf"
-description: "Review of ‘Full of character’ by Frances Ward"
-summary: " John Gore reviews and comments on a book by Frances Ward called ‘Full of character: A Christian approach to education for the digital age.’ "
+description: "John Gore discusses doing things differently"
+summary: " John Gore discusses doing things differently "
 ---
 
 Apparently, a useful counselling technique to deal with a problem is to ask the client: Is what you are doing working? If not, would you like to try something different? Recent data on educational performance in Australia indicates that this may well be an approach that teachers and other educationalists could adopt.
