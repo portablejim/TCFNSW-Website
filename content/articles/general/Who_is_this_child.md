@@ -33,8 +33,8 @@ Aird’s research demonstrated that the newer non-traditional beliefs were linke
 |   The Child is to be instructed to tell his or her children about God    | Psalm 78:6<br> “so, the next generation would know them, even the children yet to be born and they in turn would tell their children.”  |
 
 ### What Jesus says about children
-|       | |
-|----------------|---|
+|       |        |
+|----------------|------|
 |The Child is precious in His eyes |Matthew 18:5<br>“And whoever welcomes a little child like this in my name welcomes me.”|
 |The Kingdom of God belongs to little children|Mark 10:14<br> “Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.” |
 |The Child is the example of how to enter the Kingdom of God| Matthew 18:3<br> “I tell you the truth, unless you change and become like little children, you will never enter the kingdom of heaven.”|
