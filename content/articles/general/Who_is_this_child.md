@@ -68,4 +68,5 @@ Would we be confident to say that in our schools, family and church, children ar
 Often acknowledging the true value of a child involves a humbling of ourselves before the child and before God. Is there a generation growing up in Australia who do not know the Lord or what he has done in the development of this great country?
 
 Graham McDonald
+
 Founder the DIDUNO Network.
