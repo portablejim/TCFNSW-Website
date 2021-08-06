@@ -1,10 +1,11 @@
 ---
-title: "Who is this child?”
+title: " Who is this child?”
 publishdate: "2021-08-01"
 pdflink: "/pdfarticles/TCF-News-Aug-2021.pdf"
 description: "How do Christians view children"
-summary: "Graham McDonald looks at how children are viewed in Scripture and challenges our view of children "
+summary: " Graham McDonald looks at how children are viewed in Scripture and challenges our view of children "
 ---
+
 Throughout human history, the natural progression of life has been birth, ultimately followed by death at some point in time.  During these trying times it might be worth looking at the importance of parenting and teaching.
 	
 When we observe the wonder of birth, we are immediately struck by the complete and utter helplessness of a newly born child. The life and the future of the child are completely in the hands of adults. Children are the most vulnerable of all human beings and are totally dependent on the hopefully, caring and loving adults around them for their physical, emotional and spiritual wellbeing.  Sadly, this is not always the case.
