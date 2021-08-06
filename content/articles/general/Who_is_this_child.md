@@ -23,8 +23,8 @@ Research conducted by Rosemary Aird in 2007 as part of her studies at the Univer
 Aird’s research demonstrated that the newer non-traditional beliefs were linked to higher rates of *anxiety, depression, disturbed and suspicious ways of thinking and anti-social behaviour and traditional religion tends to promote the idea of social responsibility and thinking of others’ interests, whereas the New Age movement pushes the idea that we can transform the world by changing ourselves.* 
 	
 ### What God says about children
-|       | |
-|----------------|---|
+|                |       |
+|----------------|-------|
 | The Child is made in His image   |  Genesis 1:26 <br> “Let US make man in our image.” |
 | The Child is wonderfully and fearfully made | Psalm 138:14 <br> “I praise you because I am fearfully and wonderfully made; your works are wonderful; I know that well.”  |
 |   The Child has eternity in his or her heart             | Ecclesiastes 3:11<br>“He has made everything beautiful in its time. He has also set eternity in the hearts of men; yet they cannot fathom what God has done from the beginning to the end”.  |
