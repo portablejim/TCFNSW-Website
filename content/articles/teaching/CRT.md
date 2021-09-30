@@ -47,11 +47,12 @@ Stan Grant in his article *The School That Tries to End Racism aims high, but ri
 Christian teachers will hold a range of perspectives on CRT and it is too easy to be drawn into the cultural wars that CRT provokes. Each person is likely to be more attracted to one side or the other, but it should not be seen as an either/or choice. CRT has some important messages for teachers, educators and governments, but if radicalised it will be a stumbling block for both conservatives and progressives and an invitation to draw battle lines.
  
 What messages does our faith have on these matters? The Old Testament has many passages about the attitude that God’s people should take towards the poor, the marginalised and the foreigner.
+<div class="bg-gray">
 -	Do not mistreat or oppress a foreigner. Exodus 22:21
 -	Defend the weak and the fatherless, uphold the cause of the poor and the oppressed. Psalm 82:3
 -	He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God. Micah 6:8 
 -	Whoever oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honours God. Proverbs 14:31 
-
+</div>
 And in the New Testament Jesus says inter alia: 
 - They also will answer, ‘Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?’ He will reply, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for me. Matthew 25:44-45 
 
