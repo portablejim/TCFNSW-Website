@@ -1,7 +1,6 @@
 ---
 title: "Do we need a dose of CRT?"
 publishdate: "2021-09-30"
-pdflink: "/pdfarticles/TCF-News-Oct-2021.pdf"
 description: "John Gore looks at Critical Race Theory and a Christian response."
 summary: " John Gore looks at Critical Race Theory "
 ---
