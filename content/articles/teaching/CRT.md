@@ -1,9 +1,8 @@
 ---
-title: " Are students being equipped for the digital age?
-"
-publishdate: "2021-10-01"
+title: "Do we need a dose of CRT?"
+publishdate: "2021-09-30"
 pdflink: "/pdfarticles/TCF-News-Oct-2021.pdf"
-description: "Do we need a dose of CRT?"
+description: "John Gore looks at Critical Race Theory and a Christian response."
 summary: " John Gore looks at Critical Race Theory "
 ---
 
