@@ -14,7 +14,7 @@ According to the *Britannica Online Encyclopedia* CRT is an *intellectual moveme
 CRT origins can be found in the critical legal studies (CLS) movement of the 1960s and 1970s focused on how the law and legal institutions favoured the wealthy and powerful at the expense of the poor and marginalised. It acknowledges that judicial decisions are influenced as much by non legal- political and ideological- factors as by the precedent and principles of legal reasoning.  Therefore, CRT it is not new, but was labelled in 1989. 
 
 In Critical Race Theory: An Introduction, 2001 Delgado and Stefancic list as basics tenets: 
-1.	*Race is socially constructed, not biologically natural *
+1.	*Race is socially constructed, not biologically natural*
 2.	*Racism in the United States is normal, not aberrational: it is the common experience of most people of colour,* 
 3.	*legal advances (or setbacks) for people of colour tend to serve the interests of the dominant white groups,* 
 4.	*members of minority groups are attributed various sets of negative stereotypes,* 
@@ -48,13 +48,13 @@ Stan Grant in his article *The School That Tries to End Racism aims high, but ri
 Christian teachers will hold a range of perspectives on CRT and it is too easy to be drawn into the cultural wars that CRT provokes. Each person is likely to be more attracted to one side or the other, but it should not be seen as an either/or choice. CRT has some important messages for teachers, educators and governments, but if radicalised it will be a stumbling block for both conservatives and progressives and an invitation to draw battle lines.
  
 What messages does our faith have on these matters? The Old Testament has many passages about the attitude that God’s people should take towards the poor, the marginalised and the foreigner.
-•	Do not mistreat or oppress a foreigner. Exodus 22:21
-•	Defend the weak and the fatherless, uphold the cause of the poor and the oppressed. Psalm 82:3
-•	He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God. Micah 6:8 
-•	Whoever oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honours God. Proverbs 14:31 
+-	Do not mistreat or oppress a foreigner. Exodus 22:21
+-	Defend the weak and the fatherless, uphold the cause of the poor and the oppressed. Psalm 82:3
+-	He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God. Micah 6:8 
+-	Whoever oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honours God. Proverbs 14:31 
 
 And in the New Testament Jesus says inter alia: 
-•	They also will answer, ‘Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?’ He will reply, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for me. Matthew 25:44-45 
+- They also will answer, ‘Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?’ He will reply, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for me. Matthew 25:44-45 
 
 And all this teaching is summed up in the great commandment
 •	*Jesus replied: Love the Lord your God with all your heart and with all your soul and with all your mind. This is the first and greatest commandment. And the second is like it: Love your neighbour as yourself. All the Law and the Prophets hang on these two commandments*. Matthew 22:37-40.
