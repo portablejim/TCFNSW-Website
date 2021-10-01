@@ -51,7 +51,7 @@ What messages does our faith have on these matters? The Old Testament has many p
 -	Defend the weak and the fatherless, uphold the cause of the poor and the oppressed. Psalm 82:3
 -	He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God. Micah 6:8 
 -	Whoever oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honours God. Proverbs 14:31 
-
+{: .alert .alert-gitlab-purple}
 And in the New Testament Jesus says inter alia: 
 - They also will answer, ‘Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?’ He will reply, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for me. Matthew 25:44-45 
 
