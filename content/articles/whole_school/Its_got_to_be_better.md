@@ -2,8 +2,8 @@
 title: " It's got to be better"
 publishdate: "2022-02-03"
 pdflink:
-description: "Reflection by John Gore on Covid and education"
-summary: " Reflection by John Gore on Covid and education"
+description: "Reflection by John Gore on the challenges of online learning"
+summary: " Challenges of online learning"
 ---
 But wait a minute, I said this at the beginning of 2020.
 The last two years have been difficult for everyone, especially schools. Will 2022 be any
@@ -82,3 +82,4 @@ quickly and not further down the track when issues escalate.
 As schools settle down to a new year let us pray that disruption will not be the same as
 previous years. Let the teachers teach and the students learn and may the good features of
 learning in lockdown carry over and help both teachers and students in this endeavor.
+John Gore
