@@ -14,7 +14,7 @@ This article contains a number of updates on previously published articles. Thes
 
 #H2 1.	The never ending story (History curriculum wars)
 
-[https://www.tcfofnsw.org.au/articles/curriculum/the_never-ending_story/ ]()https://www.tcfofnsw.org.au/articles/curriculum/the_never-ending_story)
+[https://www.tcfofnsw.org.au/articles/curriculum/the_never-ending_story/ ](https://www.tcfofnsw.org.au/articles/curriculum/the_never-ending_story)
 
 In his article *We have some yawning gaps in balancing the history we teach *(SMH16/11/21) Dr David Hastie, Associate Dean, Education Development at Alphacrucis College believes we need a balanced curriculum and that imbalance is at the base of minister Trudge’s comments. This curriculum balance is between three ideologies – skills (economic usefulness), cultural heritage (passing the “best” on through generations), and emancipation (questioning and opposing oppressive power structures). Hastie argues that all three are important and questions if emancipation has been overdone at the expense of cultural heritage reminding readers that emancipation without an understanding of cultural heritage is like a literary critic that hasn’t read anything.
 
@@ -44,6 +44,7 @@ In February 2022, a reported fall in the percentage of students in public school
 The central issue is - where to now for public schools? Is it more of the same with improved funding leading to improved teaching and learning or is a radical change needed to improve equity?
 
 **Moving forward**
+
 Recent figures indicate that in sector share, public schools were fighting back. But this might be putting too much emphasis on the figures. An accurate interpretation is that the sector share has plateaued, and the next change is unpredictable. Lower migration has reduced enrolments into public schools and an improved economy after COVID 19 may well see a move towards non-government schools with improved consumer spending.  While an ideological shift, in which public schools increase places in selective schools for local area students, may result in greater equity, a reversal of the sector share to favour non-government schools is more likely as the parents of the brightest students seek other alternatives. Such a result would negate the very advantages sought by dispersing the students from selective schools.
 
 I am unconvinced that public schools as a sector are “fighting back”. They are just holding on and the future is uncertain. I am also not convinced that governments are prepared to tackle the teaching and learning issues as well as funding issues to address inequity in schooling in Australia.  As seen most recently when attempting the implementation of the full Gonski funding with only a small number of private schools initially adversely affected, a sweetheart deal between the Catholic sector and the Commonwealth government bought their support and so with other associated decisions public schools again missed out. Inequality and privilege remain entrenched.
