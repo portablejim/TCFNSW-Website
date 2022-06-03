@@ -2,7 +2,7 @@
 title: "Each day has enough trouble of its own"
 publishdate: "2022-06-01"
 pdflink:
-description: "Anxiety in children and adolescents"
+description: "Can a little bit of anxiety be normal, motivating and even helpful? What is the current reported wave of anxiety in children and adolescents about?"
 summary: "Can a little bit of anxiety be normal, motivating and even helpful? What is the current reported wave of anxiety in children and adolescents about?"
 ---
 These words of Jesus follow a passage about worrying over the necessities of life (Matthew 6:34) and, more generally, worry seems to be running through our community especially amongst children and adolescents and we have labelled that worry - anxiety. But who at times isn’t anxious? Lying awake at night turning over a problem, called at short notice to address a meeting, trying to reconcile differences with friends, feeling incompetent at work, concerned about the health of a family member can all result in anxiety. *Everyone experiences anxiety. It is a natural and important emotion, signalling through stirrings of worry, fearfulness and alarm that danger or a sudden threatening change is near.* (Anxiety Disorders resource Centre))
