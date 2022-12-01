@@ -15,4 +15,5 @@ The ABC reports (18/10/22) data from the Year 9 NAPLAN results that indicate *Mo
 Several articles in the news have targeted the UAI. The first indicating that International Baccalaureate marks will be more carefully scrutinise because of an apparent change in standards. More students have been achieving the top marks than can be explained by performance alone.
 
 A second article acknowledged the increasing trend for universities to accept early entry based on school performance and marks from that school presumable based on overall performance of past candidates. Now the question is being raised as to whether the UAI is performing its purpose especially when comparable standards between states are difficult to judge with iterative scaling. Further developments and erosion of the UAI as the determinate for entry into university courses is to be expected.
+
 										John Gore
