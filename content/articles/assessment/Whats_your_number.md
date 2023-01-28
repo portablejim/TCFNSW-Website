@@ -1,9 +1,9 @@
 ---
 title: " What's your number?"
-publishdate: "2023-02-01"
+publishdate: "2023-01-28"
 pdflink:
-description: "Discussion of issues relating to Higher School certificate"
-summary: " Discussion of issues relating to Higher School certificate"
+description: "In December each year the Higher School Certificate results are released and each year the media debates on-going issues about this credential. 6 issues are discussed in this article."
+summary: " Discussion of 6 issues relating to Higher School certificate"
 ---
 In December each year the Higher School Certificate results are released and each year the media debates on-going issues about this credential. These issues include: 
 1.	Data issued by the NSW Education Standards Authority
