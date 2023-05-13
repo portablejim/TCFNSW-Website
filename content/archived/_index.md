@@ -3,7 +3,7 @@ title: "Archived"
 menu:
   main:
     name: "archived"
-    weight: 30
+    weight: 10
 ---
 # Archived
 
