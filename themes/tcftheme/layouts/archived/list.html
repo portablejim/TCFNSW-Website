@@ -1,0 +1,79 @@
+{{ define "main" }}
+{{ .Content }}
+<div class="sectionToc">
+    <ul>
+        {{ range .Sections.ByTitle }}
+        <li><a href="#{{ anchorize .Title}}">{{ .Title }}</a> {{ .Params.toc_suffix }}</li>
+        {{ end }}
+    </ul>
+</div>
+
+    {{ range .Sections.ByTitle }}
+    <div class="sectionItems">
+        <a name="{{ anchorize .Title }}" aria-hidden="true"></a>
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Params.description }}</p>
+        <ul class="articleList">
+            {{ range .Pages }}
+                {{ if ( and (isset .Params "imageonly") .Params.imageonly ) }}
+                <li aria-hidden="true">
+                    <div class="article">
+                        <div class="imageArticleInner" style="background-image: url({{.Params.imageurl}});"></div>
+                    </div>
+                </li>
+                {{ else }}
+                <li>
+                    <div class="article">
+                    {{ if ( and (isset .Params "pdfonly") .Params.pdfonly ) }}
+                        <h4><a href="{{ .Params.pdfLink }}" target="_blank">{{ .Title }}</a></h4>
+                        {{ if isset .Params "publishdate" }}
+                        <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                        {{ end }}
+                        <p>{{ .Params.summary }}</p>
+                        <p class="readmore"><a href="{{ .Params.pdfLink }}">Read</a></p>
+                    {{ else }}
+                        <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
+                        {{ if isset .Params "publishdate" }}
+                        <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                        {{ end }}
+                        <p>{{ .Params.summary | markdownify }}</p>
+                        <p class="readmore"><a href="{{ .RelPermalink}}" target="_blank">Read</a></p>
+                    {{ end }}
+                    </div>
+                </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </div>
+  {{ end }}
+  {{ if eq (len .Sections) 0 }}
+    <h1>{{ .Title }}</h1>
+  <div class="articleItems">
+        <ul class="articleList">
+            {{ range .Pages }}
+                {{ if eq .Kind "page" }}
+                    {{ if ( and (isset .Params "imageonly") .Params.imageonly ) }}
+                    <li aria-hidden="true">
+                        <div class="article">
+                            <div class="imageArticleInner" style="background-image: url({{.Params.imageurl}});"></div>
+                        </div>
+                    </li>
+                    {{ else }}
+                    <li>
+                        <div class="article">
+                        <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
+                        {{ .Kind }}
+                        {{ if isset .Params "publishdate" }}
+                        <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
+                        {{ end }}
+                        <p>{{ .Description }}</p>
+                        <p class="readmore"><a href="{{ .RelPermalink}}">Read</a></p>
+                        </div>
+                    </li>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </ul>
+  </div>
+{{ end }}
+{{ end }}
