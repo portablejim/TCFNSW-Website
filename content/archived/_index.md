@@ -2,7 +2,7 @@
 title: "Archived"
 menu:
   main:
-    name: "archived"
+    name: "Archived"
     weight: 60
 ---
 # Archived
