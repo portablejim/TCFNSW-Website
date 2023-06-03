@@ -1,7 +1,7 @@
 ---
 title: "Are you woke"
 publishdate: "2023-06-01"
-pdflink: ""
+
 description: "Woke! How does it relate to teaching"
 summary: " Woke started in the 1880s as a word meaning the act of not being asleep. How does it relate to teaching today?"
 ---
