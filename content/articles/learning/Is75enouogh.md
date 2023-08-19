@@ -33,11 +33,11 @@ Schools are likely to use research that justifies what they want and ignore what
 Those subjects with strong practical components like visual arts, technics and VET courses want the longer periods whereas subject which require more writing like English, the humanities and a subject like mathematics where fatigue can easily set in, prefer shorter periods.    
 
 Whatever the length of period, a number of learning matters need to be considered:-
-    1. Not all students respond in the same way to period lengths. 
-    2. Not all students respond in the same way to different subjects.
-    3. Not all students learn in the same way.
-    4. Not all teachers teach in the same way.
-    5. Not all teachers can adjust their teaching to the time available. 
+1. Not all students respond in the same way to period lengths. 
+2. Not all students respond in the same way to different subjects.
+3. Not all students learn in the same way.
+4. Not all teachers teach in the same way.
+5. Not all teachers can adjust their teaching to the time available. 
 
 So, the lesson to be learnt from history is, whatever period length is chosen, both teachers and students will need training in how to make the best use of the time available. To address learning issues within a school by asking teachers to teach to changed periods lengths alone could be just changing deck chairs on the Titanic unless there is a whole of staff response involving training. 
 
@@ -60,10 +60,10 @@ Watson makes some sensible recommendations for schools wanting to investigate pe
 
 A schedule that works for you and your students is the closest to optimal that you can get.
 
-Some other matters to be considered could include: -
-    • having varying length periods for different subjects
-    • how much teacher talk and student talk is built into lessons
-    • the importance for subject classes to meet each day.
+Some other matters to be considered could include: 
+- having varying length periods for different subjects
+- how much teacher talk and student talk is built into lessons
+- the importance for subject classes to meet each day.
 
 Whatever the final choice there needs to be a whole school commitment to implementation or decisions will be undermined and students will be the ultimate losers.
 
