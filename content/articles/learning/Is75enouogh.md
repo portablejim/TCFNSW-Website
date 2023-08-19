@@ -54,9 +54,9 @@ Watson (2018) reinforces the argument above. *As far as I know, we just don’t 
 
 Watson makes some sensible recommendations for schools wanting to investigate period lengths, school starting and finishing times and when to have breaks and how long they should be. He recommends: -
 
-*First: study human attention*. For instance there is evidence that six minutes is figure for attention when watching video and that the average period length is 50 minutes. 
+    *First: study human attention*. For instance there is evidence that six minutes is figure for attention when watching video and that the average period length is 50 minutes. 
 
-*Second: don’t design “the optimal schedule.” Design the optimal schedule for your school and your students. It might not work at anyone else’s school, but it doesn’t need to.*
+    *Second: don’t design “the optimal schedule.” Design the optimal schedule for your school and your students. It might not work at anyone else’s school, but it doesn’t need to.*
 
 A schedule that works for you and your students is the closest to optimal that you can get.
 
