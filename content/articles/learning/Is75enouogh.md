@@ -46,11 +46,11 @@ Is 75 too much? Yes, for many teachers and students, but for other teachers and 
 Perhaps some training for both teachers and students on how to make the best of the period times available could help raise the overall level of learning.
 
 ## The best length of time for a class?
-Watson (2018) reinforces the argument above. *As far as I know, we just don’t have a clear answer to that question.
+Watson (2018) reinforces the argument above. *As far as I know, we just don’t have a clear answer to that question.*
 
-The evidence suggests that how teachers use the time they are allocated is more important than the length of lesson or the schedule of lessons, and hence that the introduction of block scheduling is unlikely to raise attainment by itself.
+*The evidence suggests that how teachers use the time they are allocated is more important than the length of lesson or the schedule of lessons, and hence that the introduction of block scheduling is unlikely to raise attainment by itself.*
 
-The point is not how long we teach but how well we teach with the time we’ve got. If you teach 2nd graders or 7th graders or 11th graders, you’ll probably find that different lengths of time work better. If you teach in cultures that inculcate patience and concentration, longer classes will work better than in cultures with a more get-up-and-go kind of pace. The number of students in the class might matter. The experience of the teacher almost certainly matters.*
+*The point is not how long we teach but how well we teach with the time we’ve got. If you teach 2nd graders or 7th graders or 11th graders, you’ll probably find that different lengths of time work better. If you teach in cultures that inculcate patience and concentration, longer classes will work better than in cultures with a more get-up-and-go kind of pace. The number of students in the class might matter. The experience of the teacher almost certainly matters.*
 
 Watson makes some sensible recommendations for schools wanting to investigate period lengths, school starting and finishing times and when to have breaks and how long they should be. He recommends: -
 
