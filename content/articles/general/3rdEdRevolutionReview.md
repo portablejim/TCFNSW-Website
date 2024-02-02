@@ -1,8 +1,9 @@
-
-
-
-The Third Education Revolution: A plan for the future?
-
+---
+title: " The Third Education Revolution: A plan for the future?"
+publishdate: "2024-02-01"
+description: "A review of the book 'The Third Revolution' by John Gore "
+summary: " The first revolution is seen to be the influence of maintaining The Bible through monastic preservation and of the church taking hold of education. The second revolution came with the Reformation and the development of the printing press. Into this scenario, a Third Revolution is introduced. "
+---
 Recently, my son gave me a book, The Third Education Revolution with many contributors and edited by Vishal Mangalwadi and David Marshall. It is unusual for him to give me a book, knowing that I am more a viewer than a reader, but I guess he thought the topic would interest me. At over 700 pages I managed to sustain interest until the end. Here is a very truncated version of the main ideas and a comment on why I cannot subscribe.
 
 The book is based on the premise that western society has lost the plot in education by abandoning its roots in Biblical Christianity and becoming the slave of secularism expressed through relativism and post modernism. Truth has been lost and indeed ultimate truth thought not to exist. The solution: give education back to the church. 
