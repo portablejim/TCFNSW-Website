@@ -1,7 +1,7 @@
 ---
 title: " The Third Education Revolution: A plan for the future?"
 publishdate: "2024-02-01"
-description: "John Gore's book review of The Third Revolution. This book has many contributors and is edited by Vishal Mangalwadi and David Marshall."
+description: "John Gore's book review of The Third Education Revolution. This book has many contributors and is edited by Vishal Mangalwadi and David Marshall."
 summary: " The first revolution is seen to be the influence of maintaining The Bible through monastic preservation and of the church taking hold of education. The second revolution came with the Reformation and the development of the printing press. Into this scenario, a Third Revolution is introduced. "
 ---
 Recently, my son gave me a book, The Third Education Revolution with many contributors and edited by Vishal Mangalwadi and David Marshall. It is unusual for him to give me a book, knowing that I am more a viewer than a reader, but I guess he thought the topic would interest me. At over 700 pages I managed to sustain interest until the end. Here is a very truncated version of the main ideas and a comment on why I cannot subscribe.
