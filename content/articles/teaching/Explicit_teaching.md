@@ -1,5 +1,5 @@
 ---
-title: "Controversial IssuesExplicit teaching: It's the only game in town - unfortunately?"
+title: "Explicit teaching: It's the only game in town - unfortunately?"
 publishdate: "2024-04-01"
 description: "Those promoting explicit teaching who choose to ridicule inquiry-based learning when they could embrace it within the framework of explicit teaching do themselves a disservice"
 summary: "Those promoting explicit teaching who choose to ridicule inquiry-based learning when they could embrace it within the framework of explicit teaching do themselves a disservice"
