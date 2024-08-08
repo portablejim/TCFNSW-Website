@@ -2,7 +2,7 @@
 title: " Creation and Conservation"
 publishdate: "2024-08-01"
 description: "Environmental concerns are no longer on the fringe of contemporary culture and politics. Students are affected by the story told by secular culture about our planet, its origins, its purpose and its future. What does the Bible say about our relationship to the natural world and our future hope?  "
-summary: " Excerpts from TCF webinar by Susan Pursellon Creation and Conservation "
+summary: " Excerpts from TCF webinar by Susan Pursellon (BA, Primary Dip Ed (Masters), Diploma of Bible and Missions) - Creation and Conservation "
 ---
 Excerpts from TCF webinar by Susan Pursell - BA, Primary Dip Ed (Masters), Diploma of Bible and Missions. 
 
