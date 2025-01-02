@@ -5,4 +5,10 @@ theme = "tcftheme"
 #theme = "hugo-business-frontpage-theme"
 sectionPagesMenu = "main"
 copyright = "Copyright 2019 TCFNSW"
-<!--
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+-->
