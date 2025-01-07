@@ -1,11 +1,10 @@
-<!-- {{ define "pageClass" }}homepage{{ end }}
+{{ define "pageClass" }}homepage{{ end }}
 {{ define "main" }}
 
 <div class="hero">
 {{ $hero := .Site.GetPage "page" "pageFragments/homepagehero" }}
 {{ $hero.Content }}
 </div>
-<!--
 <div class="twoColumn">
 <div class="mainNews">
 {{ $news := .Site.GetPage "page" "pageFragments/news" }}
@@ -58,7 +57,5 @@
 <div style="background-color: #a6a6a8;">Color 5</div>
 <div style="background-color: #343a40;">Color 6</div>
 </div>
--->
 
 {{ end }}
--->
