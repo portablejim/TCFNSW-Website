@@ -10,29 +10,9 @@
 {{ $news := .Site.GetPage "page" "pageFragments/news" }}
 {{ $news.Content }}
 </div>
-
-<div class="mainDiscussion frontpageArticles">
-    <h2>Latest Discussion</h2>
-{{ $recent := where .Site.RegularPages "Section" "in" (.Site.Params.postSections | default (slice "articles")) }}
-{{ $recent_num := (.Site.Params.widgets.recent_num | default 5) }}
-
-<ul class="articleList">
-{{ range first $recent_num $recent }}
-            <li>
-                <div class="article">
-                <h4><a href="{{ .RelPermalink}}">{{ .Title }}</a></h4>
-                {{ if isset .Params "publishdate" }}
-                <span class="date">{{ dateFormat "January 2006" .Params.publishdate }}</span>
-                {{ end }}
-                <p>{{ .Description }}</p>
-                <p class="readmore"><a href="{{ .RelPermalink}}">Read</a></p>
-                </div>
-            </li>
-{{ end }}
-</ul>
-</div>
 </div>
 
+<!--
 <div style="padding: 10px 0;">
 <div style="background-color: #0e194c;">Color 1</div>
 <div style="background-color: #6699ff;">Color 2</div>
@@ -57,5 +37,6 @@
 <div style="background-color: #a6a6a8;">Color 5</div>
 <div style="background-color: #343a40;">Color 6</div>
 </div>
+-->
 
 {{ end }}
