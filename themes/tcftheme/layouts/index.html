@@ -5,11 +5,9 @@
 {{ $hero := .Site.GetPage "page" "pageFragments/homepagehero" }}
 {{ $hero.Content }}
 </div>
-<div class="twoColumn">
 <div class="mainNews">
 {{ $news := .Site.GetPage "page" "pageFragments/news" }}
 {{ $news.Content }}
-</div>
 </div>
 
 <!--
